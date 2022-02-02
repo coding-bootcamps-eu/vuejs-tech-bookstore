@@ -21,8 +21,6 @@ export default {
 </script>
 
 <style>
-@import url("@/assets/reset.css");
-
 :root {
   --primary: #6a1cc3;
   --primary-dark: #370b68;
